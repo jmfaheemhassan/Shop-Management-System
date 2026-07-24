@@ -97,7 +97,7 @@ Example:
 
 ```
 screenshots/
-├── home.png
+├── home.png  https://github.com/jmfaheemhassan/Shop-Management-System/blob/main/Aplication%20Screenshot/home.png
 ├── add-product.png
 ├── sell-product.png
 ├── sales-log.png
