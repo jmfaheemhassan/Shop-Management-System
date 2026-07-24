@@ -118,11 +118,9 @@ screenshots/
 ---
 
 ## 👨‍💻 Author
+**J M Fahim Hasan,along with Khaled Hossain Sadi**
 
-**J M Fahim Hasan**
-**Khaled Hossain Sadi**
 
-GitHub: https://github.com/jmfaheemhassan
 
 ---
 
