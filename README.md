@@ -99,8 +99,8 @@ Example:
 screenshots/
 ├── home.png               https://github.com/jmfaheemhassan/Shop-Management-System/blob/main/Aplication%20Screenshot/home.png
 ├── add-product.png        https://github.com/jmfaheemhassan/Shop-Management-System/blob/main/Aplication%20Screenshot/add-product.png
-├── sell-product.png        
-├── sales-log.png
+├── sell-product.png       https://github.com/jmfaheemhassan/Shop-Management-System/blob/main/Aplication%20Screenshot/sell-product.png 
+├── sales-log.png          https://github.com/jmfaheemhassan/Shop-Management-System/blob/main/Aplication%20Screenshot/sales-log.png
 ```
 
 ---
@@ -120,6 +120,7 @@ screenshots/
 ## 👨‍💻 Author
 
 **J M Fahim Hasan**
+**Khaled Hossain Sadi**
 
 GitHub: https://github.com/jmfaheemhassan
 
