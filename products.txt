@@ -2,3 +2,4 @@ P001,Rice,Grocery,60.0,100
 P002,Soap,Toiletries,30.0,10
 P003,Oil,Grocery,150.0,5
 X004,Shampoo,skin care,1200.0,1
+A01,Multi-Peptide Serum for Hair Density,Hair Care,2959.49,18
