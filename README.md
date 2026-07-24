@@ -91,9 +91,7 @@ mvn exec:java
 
 ---
 
-## 📸 Screenshots
-
-Create a folder named **screenshots** and add application screenshots.
+## 📸Application screenshots.
 
 Example:
 
